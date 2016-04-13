@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitDroid</string>
+    <string name="hello_world">Hello Ash!</string>
+    <string name="step">step</string>
+    <string name="calories">calories</string>
+    <string name="heart">heart</string>
+</resources>
